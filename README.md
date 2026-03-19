@@ -2,7 +2,7 @@
 
 ## 👨‍🔬 Tomás del Castillo Mogollón  
 <p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/3e8741ef-2901-4e3d-bee0-fc3095b1de33">
+  <img width="200" src="https://github.com/user-attachments/assets/3e8741ef-2901-4e3d-bee0-fc3095b1de33">
 
 📧 **Correo:** tomas.del.castillo@upch.pe  
 🎓 **Carrera:** Ingeniería Ambiental  
