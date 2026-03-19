@@ -4,7 +4,7 @@
 
 📧 **Correo:** tomas.del.castillo@upch.pe  
 🎓 **Carrera:** Ingeniería Ambiental  
-🎂 **Edad:** 19 años  
+🎂 **Edad:** 20 años  
 
 ---
 
